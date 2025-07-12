@@ -1,12 +1,12 @@
-🌦️ Weather Forecast Web App
+# 🌦️ Weather Forecast Web App
 A modern weather forecast web app built using HTML, CSS, and JavaScript. This project allows users to search any city and view live weather data with a smooth interface, animated synthwave-style background, and interactive sound effects.
 
-📝 Overview
+# 📝 Overview
 This app lets users enter a city name and fetch real-time weather details including temperature, condition, humidity, and wind speed using the OpenWeatherMap API. It also displays a 4-day forecast with dynamic icons and data. The interface features a looping video background and ambient background music triggered by user interaction. It’s fully responsive and designed with a sleek dark theme.
 
 All logic is written in vanilla JavaScript, including API calls, forecast processing, icon switching, and UI updates. CSS is used for transitions, layout responsiveness, and styling. The HTML is clean and semantic for better accessibility and structure.
 
-📁 Folder Structure
+# 📁 Folder Structure
 📦 weather-app/
 ├── index.html → Main HTML structure
 ├── style.css → All styles, layout, and transitions
@@ -26,7 +26,7 @@ All logic is written in vanilla JavaScript, including API calls, forecast proces
     ├── thunderstorm.svg
     └── drizzle.svg
 
-⚙️ Features
+# ⚙️ Features
 ✔️ Search weather by city name
 🌡️ Real-time temperature, humidity, wind speed
 📆 4-day forecast with icons
@@ -35,7 +35,7 @@ All logic is written in vanilla JavaScript, including API calls, forecast proces
 ❌ "City Not Found" error handling
 📱 Fully responsive dark-themed UI
 
-🚀 Getting Started
+# 🚀 Getting Started
 To run this project:
 
 1. Clone the repository
